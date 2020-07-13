@@ -30,7 +30,7 @@ O I Have An Idea nasceu para juntar pessoas, criando a união perfeita entre gra
   - [ ] Escrever ideia inicial no README.
   - [ ] Criar projeto padrão (eslint + .editorconfig).
   - [ ] Adicionar exemplo de testes com Jest e Enzyme.
-  - [ ] Adicionar [Buy Me a Coffe](https://www.buymeacoffee.com/) ao README.
+  - [ ] Adicionar [Buy Me a Coffee](https://www.buymeacoffee.com/) ao README.
 
 ### Paginas gerais
 
